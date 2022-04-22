@@ -1,0 +1,14 @@
+{
+    "name": "jh",
+    "description": "jh",
+    "logo":"jh",
+    "keywords": ["jh"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/DGTBVF/cxgvcx",
+    "stack": "container"
+}
